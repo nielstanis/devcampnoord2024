@@ -20,9 +20,9 @@ Combines some of the data on versions and OpenSSF scorecard and makes it availab
 
 It also has API available to get all data based on ecosystem. 
 
-- `https://api.deps.dev/v3alpha/systems/nuget/packages/newtonsoft.json`
-- `https://api.deps.dev/v3alpha/systems/nuget/packages/newtonsoft.json/versions/13.0.2`
-- `https://api.deps.dev/v3alpha/projects/github.com%2Fjamesnk%2Fnewtonsoft.json`
+- `https://api.deps.dev/v3/systems/nuget/packages/newtonsoft.json`
+- `https://api.deps.dev/v3/systems/nuget/packages/newtonsoft.json/versions/13.0.2`
+- `https://api.deps.dev/v3/projects/github.com%2Fjamesnk%2Fnewtonsoft.json`
 
 
 
